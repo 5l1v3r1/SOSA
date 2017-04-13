@@ -6,7 +6,7 @@ SharePoint Online Security Auditor (SOSA). A tool designed for quick mapping of 
 
 [![Build Status](https://travis-ci.org/codingo/SOSA.svg?branch=master)](https://travis-ci.org/codingo/SOSA)
 
-##Usage
+## Usage
 
 **Install Dependencies:**
 ```
